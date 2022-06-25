@@ -1,0 +1,25 @@
+Node.js 
+
+utilizado para construir APIs para Back-end
+
+Ferramenta que permite a execucao de codigo java script fora do navegador (navegadores possui motor próprio para traducao de codigo js)
+
+utiliza v8 engine (motor do google chrome)
+
+Como funciona?
+
+possui um núcleo single thread que suporta várias operacoes simultaneas (non-blocking)
+
+analogia da cozinha e mesas, o node atende novas requisicoes ao mesmo tempo em que requisicoes antigas estão sendo processadas
+
+Módulos do node
+
+node possui módulos pré instalados
+
+também é possível criar nossos próprios módulos (arquivos) e exporta-los
+
+NPM (node package manager)
+
+gerenciador de pacotes do node, possibilitando instalar modulos de terceiros via npm
+
+modulos sao armazenados em uma pasta "node_modules" podendo ser listados pelo "package.json"
